@@ -1,6 +1,6 @@
 # Fake News Detection System
 
-This project implements a robust fake news detection system using various machine learning models including BERT, TF-IDF with SVM, and LSTM.
+This project implements a fake news detection system for English & Foreign News Outlets using various ML models, including BERT, TF-IDF with SVM, and LSTM.
 
 ## Features
 
